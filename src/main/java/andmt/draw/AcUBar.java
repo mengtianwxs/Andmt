@@ -16,7 +16,6 @@ public class AcUBar extends Andmt {
     private float _u2=0;
     private float _u3=0;
 
-    // /调整上下的位移，根据U1,U2 的不同而调整。
 
     private float u=0;
     private float v=0;
