@@ -59,7 +59,6 @@ public class Annotations   {
                 can.drawText(txtset.get(i), xset()[lockX] + xmove, i * 50 + ymove, pt);
             }
 
-            //System.out.println("///////////////////坐标记录成功 autoaddannote");
         } else {
             System.out.println("////////////////error record");
         }
